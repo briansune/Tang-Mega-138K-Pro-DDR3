@@ -8,6 +8,8 @@ Aim: The example is continuously write and read back to check sanity of handshak
 
 The debug methodology is address / 8 = write/read content app_data := {32{addr/8}}
 
+# GAO Capture
+
 ![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/349fa9df-84fb-40d7-935f-b498e946cf5c)
 
 # Explain of MT41J128M16-125:K and IP configuration
@@ -24,6 +26,10 @@ The debug methodology is address / 8 = write/read content app_data := {32{addr/8
 |![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/88927293-569c-4da2-ad4b-125dba072a74)|![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/932aea6a-435d-4459-8a93-42abad7d26e8)|
 |![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/a53b2aba-ef5c-4fb3-bb95-4d9c552a6699)|![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/66ca86e7-ccb2-46b5-8a33-7f60fe29e0de)|
 |![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/a16acbcd-262d-4099-ab53-23a7132656d9)|![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/cb24ad39-118e-477f-833c-17b3449dcd71)|
+
+# GAO Capture
+
+![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/2da3f0b3-620e-48a2-b95d-d83e7d76b6fd)
 
 # Explain of H5TQ4G63EFR-RDC and IP configuration
 
