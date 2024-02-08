@@ -6,6 +6,8 @@
 
 Aim: The example is continuously write and read back to check sanity of handshaking between DDR IP controller and custom FSM.
 
+The debug methodology is address / 8 = write/read content app_data := {32{addr/8}}
+
 ![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/349fa9df-84fb-40d7-935f-b498e946cf5c)
 
 # Explain of MT41J128M16-125:K and IP configuration
