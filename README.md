@@ -8,6 +8,10 @@ Aim: The example is continuously write and read back to check sanity of handshak
 
 The debug methodology is address / 8 = write/read content app_data := {32{addr/8}}
 
+## How to capture? Setup the trigger address, and reset the FPGA board via the push button!
+
+![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/d983da1e-7761-4966-858a-4b51d9223dfb)
+
 # GAO Capture
 
 ![image](https://github.com/briansune/TangMega-138KPro-DDR3/assets/29487339/349fa9df-84fb-40d7-935f-b498e946cf5c)
